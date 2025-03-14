@@ -3,10 +3,12 @@
 [한국어](./README.md) | English 
 
 ## Overview
-When working under tight deadlines, it's easy to overlook certain aspects of development. Sometimes, it's more efficient to complete the work quickly and then review everything at once. <br/>
-I'd like to share a checklist I personally use to verify the quality of my work after completion. <br/><br/>
-This checklist is based on experience gained through work and study, and will be continuously updated. :) <br/>
-If you have any feedback or would like to add something, please let me know anytime 🙌
+In the fast-paced world of web development, it's easy to overlook critical details. This checklist, which I've personally been using in my workflow, helps ensure comprehensive quality review at project completion. <br/><br/>
+Created from practical experience and technical studies, this checklist incorporates best practices and is continuously updated to reflect current development trends. :) <br/>
+
+Feedback and suggestions for improvement are always welcome. Let's build better development processes together! 🙌<br/>
+
+I'll also share it with you on the [notion page](https://private-crab-648.notion.site/Frontend-Development-Quality-Checklist-1b69b72044de808c8094e45549e58eb5?pvs=4). You can clone it and use it as you like :)
 
 ## Checklist
 ### 1. Performance
